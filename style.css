@@ -1,0 +1,57 @@
+body {font-family: Arial, sans-serif;
+background: color #f4f4f4;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 1O0vh;
+margin: 0;
+}
+
+.carte {
+  background-color: rgb(195, 213, 250);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.carte img {
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.carte button{
+  padding: 10px 20px;
+  margin: 0 100px;
+  background-color: #52a0f3;
+  border: none;
+  color: rgb(9, 8, 8);
+  border-radius: 5px;
+  cursor: pointer;
+  }
+
+  .carte button:hover{
+    background-color: #0056b3;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  #message {
+    font-size: 18px;
+    color: #333;
+    margin-top: 10px;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+
+
