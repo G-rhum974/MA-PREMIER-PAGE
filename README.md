@@ -1,22 +1,25 @@
-# Ma première page web
+# 🎨 Ma première page web
 
-Ce projet est une mini carte de profil codée avec **HTML**, **CSS** et **JavaScript**.
+Ce projet est une mini **carte de profil** codée avec HTML, CSS et JavaScript.
 
-## Fonctionnalités :
+## ✨ Fonctionnalités
 
-- Saisie du prénom
-- Affichage d’un message personnalisé
-- Changement de la couleur de fond
-- Animation en fondu à l’affichage du message
+- ✅ Saisie du prénom
+- ✅ Message personnalisé
+- 🎨 Changement de la couleur de fond
+- 🌀 Animation "fade-in"
 
-## Comment utiliser ce projet :
+## 🚀 Comment l’utiliser
 
 1. Ouvre `index.html` dans un navigateur
-2. Saisis ton prénom
-3. Clique sur le bouton "Dis bonjour"
+2. Entre ton prénom
+3. Clique sur le bouton `Dis bonjour`
 
----
+## 🔗 Liens
 
-## Auteur :
+- [👉 Voir la démo](https://G-rhum974.github.io/ma-premiere-page)
+- [📁 Code source sur GitHub](https://github.com/G-rhum974/ma-premiere-page)
 
-👤 Jérôme
+## 👤 Auteur
+
+**Jérôme**
