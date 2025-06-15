@@ -17,8 +17,8 @@ Ce projet est une mini **carte de profil** codée avec HTML, CSS et JavaScript.
 
 ## 🔗 Liens
 
-- [👉 Voir la démo](https://G-rhum974.github.io/ma-premiere-page)
-- [📁 Code source sur GitHub](https://github.com/G-rhum974/ma-premiere-page)
+- [👉 Voir la démo](https://G-rhum974.github.io/MA-PREMIERE-PAGE)
+- [📁 Code source sur GitHub](https://github.com/G-rhum974/MA-PREMIERE-PAGE)
 
 ## 👤 Auteur
 
